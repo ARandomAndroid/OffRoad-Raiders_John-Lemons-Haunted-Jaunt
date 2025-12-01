@@ -13,3 +13,11 @@ What's the biggest challenge you have so far?
 
 Will you continue working on this assignment? If yes, what might be some changes you will add later?
 * Maybe. If we do I’d probably continue adjusting the pathing of the ghosts and maybe add in a few more rooms to make the game longer.
+
+
+Game Build:
+https://drive.google.com/drive/folders/1CQAbjtC4lKf1Uwr5g7iLBvPWvmrnG-SK?usp=sharing
+
+
+Playthrough Video:
+https://youtu.be/sriqzkTdgkA
