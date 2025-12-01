@@ -1,0 +1,15 @@
+﻿Who are your team members? Names & surnames. No need to list who did what this time.
+* Ian Farmer
+* Conor Whelan
+
+
+What are the modifications you made to the game?
+* I modified the ghost’s sounds and movement, replacing their default sounds with other noises and adjusting their movement by changing the pathing on several ghosts as well as increasing their speed by varying amounts to create a more challenging experience.
+
+
+What's the biggest challenge you have so far?
+* Figuring out how to chain the waypoints of the ghosts together was probably the hardest part, but it really wasn’t all that bad.
+
+
+Will you continue working on this assignment? If yes, what might be some changes you will add later?
+* Maybe. If we do I’d probably continue adjusting the pathing of the ghosts and maybe add in a few more rooms to make the game longer.
