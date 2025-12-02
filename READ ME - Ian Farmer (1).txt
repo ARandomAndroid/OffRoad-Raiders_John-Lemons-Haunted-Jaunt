@@ -4,7 +4,7 @@
 
 
 What are the modifications you made to the game?
-* I modified the ghost’s sounds and movement, replacing their default sounds with other noises and adjusting their movement by changing the pathing on several ghosts as well as increasing their speed by varying amounts to create a more challenging experience.
+* I made a couple minor modifications by changing the ghost’s sounds and movement, replacing their default sounds with other noises and adjusting their movement by changing the pathing on several ghosts as well as increasing their speed by varying amounts to create a more challenging experience.
 
 
 What's the biggest challenge you have so far?
@@ -20,4 +20,5 @@ https://drive.google.com/drive/folders/1CQAbjtC4lKf1Uwr5g7iLBvPWvmrnG-SK?usp=sha
 
 
 Playthrough Video:
+
 https://youtu.be/sriqzkTdgkA
