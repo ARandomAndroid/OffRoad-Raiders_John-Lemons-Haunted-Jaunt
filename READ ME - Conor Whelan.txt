@@ -1,0 +1,23 @@
+﻿Who are your team members? Names & surnames. No need to list who did what this time.
+* Ian Farmer
+* Conor Whelan
+
+
+What are the modifications you made to the game?
+* I made a major modification that added a basic running system. Holding shift makes the player move faster, which drains a stamina bar. If the bar is too low, the player can't run. I also changed the ambience to add Kevin Macleod's "Sneaky Snitch" (royalty free music), the walking sound to have cartoonish steps (the running also does this!), and the losing/winning screens to have my very great impression of Toad from Super Mario congratulating or laughing at you.
+
+
+What's the biggest challenge you have so far?
+* Understanding how to create a Stamina bar. I have previous code knowledge before, so after an hour of tweaking I managed to figure it out in the end.
+
+
+Will you continue working on this assignment? If yes, what might be some changes you will add later?
+* Probably? If I did, I'd probably add more ghosts and gargoyles and turn it into a super hard survival game for the fun of it.
+
+
+Game Build:
+https://drive.google.com/drive/folders/1CQAbjtC4lKf1Uwr5g7iLBvPWvmrnG-SK?usp=sharing
+
+
+Playthrough Video:
+https://youtu.be/sriqzkTdgkA
